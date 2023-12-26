@@ -94,8 +94,6 @@
 
 <br clear="both">
 
-(https://skyline.github.com/smilewebmaster)
-
 </div>
 
 ###

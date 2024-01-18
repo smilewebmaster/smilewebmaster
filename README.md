@@ -2,9 +2,6 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-
-  
-<br>
 <h2 align="center">Hi 👋! I'm a Shopify/ WordPress / Laravel Developer.</h2>
 <br>
 

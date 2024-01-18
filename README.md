@@ -61,13 +61,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  <a href="https://discord.com/users/1092644496010920078" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/tomas-dean-104773262" target="_blank">
+  <a href="www.linkedin.com/in/" target="_blank">
     <img src="assets/skype-social-media-svgrepo-com.svg" width="50" height="35" alt="skype logo"  />
   </a>
-  <a href="https://t.me/SSLuckyStar" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
   </a>
 </div>

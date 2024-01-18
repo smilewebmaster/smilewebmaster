@@ -4,13 +4,12 @@
 
 <h1 align="center">Hi 👋! I'm a Shopify | WordPress | Laravel Developer.</h1>
 <br>
-
 ###
 
 <img align="right" width="100%" src="assets/app.jpg"  />
 
 ###
-
+<br>
 <div align="center">
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />

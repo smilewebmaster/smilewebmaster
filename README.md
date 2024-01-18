@@ -8,7 +8,6 @@
 <img align="right" width="100%" src="assets/app.jpg"  />
 
 ###
-<br>
 
 <div align="center">
 <div>
